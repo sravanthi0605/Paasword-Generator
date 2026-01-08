@@ -63,4 +63,3 @@ This project is a beginner-friendly Python command-line application that generat
 1. Clone the repository:
    ```bash
    git clone https://github.com/sravanthi0605/random-password-generator.git
-# Paasword-Generator
